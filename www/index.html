@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#000000">
+  <title>Androshell</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="bundle.js" defer></script>
+</head>
+<body>
+  <main id="terminal">
+    <div id="output" aria-live="polite"></div>
+    <form id="command-form" autocomplete="off">
+      <label id="prompt" for="command">Android:</label>
+      <input
+        id="command"
+        type="text"
+        autocomplete="off"
+        autocapitalize="off"
+        spellcheck="false"
+        aria-label="Enter command"
+        autofocus
+      >
+    </form>
+  </main>
+</body>
+</html>

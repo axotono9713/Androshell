@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Androshell</string>
+    <string name="title_activity_main">Androshell</string>
+    <string name="package_name">com.androshell.launcher</string>
+    <string name="custom_url_scheme">com.androshell.launcher</string>
+</resources>
