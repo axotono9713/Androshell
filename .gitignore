@@ -1,0 +1,32 @@
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+www/bundle.js
+android/app/build/
+android/build/
+android/.gradle/
+.gradle/
+
+# Local Android SDK configuration
+local.properties
+android/local.properties
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+
