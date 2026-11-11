@@ -1,7 +1,7 @@
 
 # Androshell
 
-A lightweight Android launcher with a terminal-inspired interface.
+A lightweight **Android launcher** with a terminal-inspired interface.
 
 Androshell brings a command-line experience to Android, combining a minimal terminal UI with native Android functionality.
 
