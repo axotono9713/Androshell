@@ -140,5 +140,5 @@ Androshell is an early release. Features and commands may change in future versi
 
 ## License
 
-See [LICENSE](LICENSE) for license information.
+See [LICENSE](LICENSE.md) for license information.
 
